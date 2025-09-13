@@ -33,7 +33,7 @@
   <a href="https://linkedin.com/in/mohamed-aziz-cherni-b511b3322" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
   </a>
-  <a href="https://github.com/cherni-aziz" target="_blank">
+  <a href="https://github.com/MohamedAzizz" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="30" />
   </a>
   <a href="https://twitter.com/" target="_blank">
