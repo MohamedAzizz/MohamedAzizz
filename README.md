@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohamed Aziz Cherni</h1>
-<h3 align="center">Full Stack Developer | Passionné par le Web & l’IA</h3>
+<!-- Intro -->
+<p style="margin: 15px;" align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+fullstack;">
+    <h3 align="center">Full Stack Developer | Passionné par le Web & l’IA</h3>
+    <h3 align="center">I'm web developper</h3>
+</p>
 
 - 📫 How to reach me **cherniaziz071@gmail.com**
 
